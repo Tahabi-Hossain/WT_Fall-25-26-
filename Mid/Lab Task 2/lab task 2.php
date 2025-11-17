@@ -43,6 +43,7 @@
  
     #output {
       margin-top: 20px;
+
       text-align: center;
       font-size: 16px;
       color: #003366;
@@ -59,3 +60,4 @@
     <h2>Participent Registration </h2>
 </body>
 </html>
+//tahabi
