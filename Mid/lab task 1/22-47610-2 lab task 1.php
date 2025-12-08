@@ -9,7 +9,7 @@
     
     <center><h1 style="color:Red;border-bottom: 3px solid red; width: 100%;">Student Registration Information</h1></center>
 First Name<br>
-<Input type="text"style="width:250px;height:20px;"><br><br>
+<Input type="text"style="width:80%;height:20px;"><br><br>
 Last Name<br>
 <Input type="text"style="width:250px;height:20px;"><br><br>
 Student ID<br>
