@@ -51,7 +51,6 @@ echo "Name: ".$name. "<br>";
 
 
 
-
 </form>
 </body>
 </html>
