@@ -58,8 +58,6 @@ echo "Name: ".$name. "<br>";
  
 ?>
  
- 
- 
- 
+
 </body>
 </html>
