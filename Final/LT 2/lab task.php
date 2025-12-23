@@ -1,7 +1,7 @@
 <DOCTYPE html>
 <html>
 <head><title>PHP Code</title>
-<style>
+
 </head>
  
 <body>
@@ -48,8 +48,6 @@ echo "Name: ".$name. "<br>";
 
  
 ?>
-
-
 
 </form>
 </body>
